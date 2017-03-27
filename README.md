@@ -4,6 +4,10 @@ several methods for solving IQ puzzles using machine learning
 Specifically this solves the Raven Progressive Matrices which seek to test logic ability in human IQ tests. 
 Since the basis underlying the test is to check for the presence versus change of certain shapes in each row of the matrix, we use the classic Nerual Network solution that can learn any logic function of 2 inputs and 1 output: a 1-layer, 2 hidden unit network capable of solving XOR, and any other combination of 2 binary inputs to give any output (any permutation of truth table elements) for example:
 
+I think for copy right reasons you have to find your own Raven IQ tests, but here is an example:
+
+https://github.com/ConsciousMachines/IQ-solver-v1/blob/master/ex1.png
+
 XOR
 ~~~~~~
 X1 X2 Y
